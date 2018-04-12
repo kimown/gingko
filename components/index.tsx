@@ -34,3 +34,5 @@ export { default as WhiteSpace } from './WhiteSpace'
 export { default as WingBlank } from './WingBlank'
 
 export { default as Toast } from './Toast';
+
+export { default as DatePicker } from './DatePicker';
